@@ -9,6 +9,7 @@ Huskylens:
 ![Screenshot 2024-07-31 094241](https://github.com/user-attachments/assets/7f015433-f0c7-403d-8c73-3651acada568)
 
 Arjuna:
+
 Arjuna is the python script that uses a camera to track your hand and arduino based laser turret (aka Timby) will follow your hand with high accuracy.
 Rahul has implemented smaller variants of features in Arjuna across frameworks and organizations
 ![Screenshot 2024-07-31 095945](https://github.com/user-attachments/assets/f6022062-8b3b-4e1b-bd4c-e613363a899a)
