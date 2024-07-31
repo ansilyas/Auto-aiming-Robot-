@@ -10,5 +10,6 @@ Model design:
 HuskyLens AI Camera:
 ![Screenshot 2024-07-31 094241](https://github.com/user-attachments/assets/7c860987-628d-40c3-9028-8b84670265b6)
 
-AI Camer
+AI Camer:
+
 ![Screenshot 2024-07-31 095945](https://github.com/user-attachments/assets/af254269-f43b-4880-9382-3b0d74340026)
